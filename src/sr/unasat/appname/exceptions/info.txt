@@ -1,0 +1,11 @@
+Here comes all the exceptions that the application wil produce.
+Example:
+public class ClassNameException extends Exception {
+    public ClassNameException(String message) {
+        super(message);
+    }
+}
+
+Author: Zareef Soetodrono.
+Date:   19 november 2019.
+Email:  zareef.soetodrono@gmail.com
